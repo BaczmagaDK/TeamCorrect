@@ -1,19 +1,19 @@
 # TeamCorrect
 The GitHub repo for TeamCorrect CSCI 362 Project
 
-# Team Members
+## Team Members
 Daniel Lee, Hannah Posch, Alex Thropp, Daniel Baczmaga
 
-# Team Members' GitHub Accounts
+## Team Members' GitHub Accounts
 @<a href="https://github.com/TheWinrarz">TheWinrarz</a>, @<a href="https://github.com/PoschH">PoschH</a>, @<a href="https://github.com/throppa">throppa</a>, @<a href="https://github.com/baczmagadk">baczmagadk</a>
 
-# Project Description
+### Project Description
 This repository contains test materials for the project Glucosio. We have built a test script, runAllTests.sh, that automates the testing of the Glucosio system.
 
-# Requirements
+### Requirements
 Ubuntu, Clone of Team Correct Repository, Java
 
-# Instructions to run tests
+### Instructions to run tests
 1) Open Terminal
 2) git clone https://github.com/csci-362-fall-2018-01/TeamCorrect
 3) cd TeamCorrect/TestAutomation/scripts 
@@ -24,7 +24,7 @@ Ubuntu, Clone of Team Correct Repository, Java
 
 *If the ./runAllTests.sh returns command not found, use 'sudo chmod 755 runAllTests.sh', then './runAllTests.sh'
 
-# Instructions to add tests
+### Instructions to add tests
 1) Add testCaseXX.txt to the folder /TestAutomation/testCases
 2) Add testCaseXX.java to the folder /testCasesExecutables/org/glucosio/android/TeamCorrectTestExecutables
 3) Add XXXXXX.java (java file to test) to the folder /testCasesExecutables/org/glucosio/android/TeamCorrectTestExecutables
@@ -33,7 +33,7 @@ Ubuntu, Clone of Team Correct Repository, Java
 6) Add a input file reader to testCaseXX.java (examples of string, double and int type input file readers in other testCaseXX.java files)
 7) Open terminal and follow instructions to run tests as written above.
 
-# Testing Framework Architecture
+### Testing Framework Architecture
 /TestAutomation
 
     /project (Holds Glucosio repository)
@@ -82,45 +82,45 @@ Ubuntu, Clone of Team Correct Repository, Java
     
         testResults.html
  
-# List of CS 362 Deliverables
-# Deliverable #1
+### List of CS 362 Deliverables
+### Deliverable #1
 This deliverable contains our test results from the Glucosio project we are working with.
 
 Files:
 [team-correct]_deliverable1.pdf
 
-# myList script
+### myList script
 The script  lists the top-level directory contents of its containing directory in an html file displayed in a browser.
 
 Files:
 myList.sh,
 directory.html
 
-# Deliverable #2
+### Deliverable #2
 This deliverable contains our test plan and test cases for Glucosio.
 
 Files:
 [team-correct]_deliverable2.pdf
 
-# Deliverable #3
+### Deliverable #3
 This deliverable contains our testing framework and 5 of 25 test cases to run.
 
 Files:
 [team-correct]_deliverable3.pdf
 
-# Deliverable #4
+### Deliverable #4
 This deliverable contains our updated testing framework and 25 test cases to run.
 
 Files:
 [team-correct]_deliverable4.pdf
 
-# Deliverable #5
+### Deliverable #5
 This deliverable contains our 5 fault injections.
 
 Files:
 [team-correct]_deliverable5.pdf
 
-# Deliverable #6
+### Deliverable #6
 This deliverable contains our final report.
 
 Files:
