@@ -3,6 +3,8 @@ The GitHub repo for TeamCorrect CSCI 362 Project
 
 # Team Members
 Daniel Lee, Hannah Posch, Alex Thropp, Daniel Baczmaga
+
+# Team Members' GitHub Accounts
 @TheWinrarz, @PoschH, @throppa, @baczmagadk
 
 # Project Description
