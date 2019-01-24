@@ -5,7 +5,7 @@ The GitHub repo for TeamCorrect CSCI 362 Project
 Daniel Lee, Hannah Posch, Alex Thropp, Daniel Baczmaga
 
 # Team Members' GitHub Accounts
-@TheWinrarz, @PoschH, @throppa, @baczmagadk
+@<a href="https://github.com/TheWinrarz">TheWinrarz</a>, @<a href="https://github.com/PoschH">PoschH</a>, @<a href="https://github.com/throppa">throppa</a>, @<a href="https://github.com/baczmagadk">baczmagadk</a>
 
 # Project Description
 This repository contains test materials for the project Glucosio. We have built a test script, runAllTests.sh, that automates the testing of the Glucosio system.
